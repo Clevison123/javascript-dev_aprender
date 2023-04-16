@@ -4,8 +4,6 @@
         "formulahendry.code-runner",
         "aeschli.vscode-css-formatter",
         "streetsidesoftware.code-spell-checker",
-        "dbaeumer.vscode-eslint",
-        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-        "ms-ceintl.vscode-language-pack-pt-br"
+        "dbaeumer.vscode-eslint"
     ]
 }
